@@ -1,5 +1,6 @@
 # gae-restlet-example
-An example AppEngine REST API implemented using the RESTlet framework. 
+A simple example AppEngine REST API implemented using the RESTlet framework. The
+app uses the Objectify API to persist data on AppEngine. 
 
 ## Setup 
 
